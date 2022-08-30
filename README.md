@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oluwatola
 - 👀 I’m interested in IaaC, AWS Cloud Architecture and Cloud DevOps
-- 🌱 I’m currently learning how to create and implement CI/CD pipelines
+- 🌱 I’ve learned how to create and implement IaC, CI/CD pipelines, Docker containers and Kubernetes clusters. Fun stuff!
 - 💞️ I’m looking to collaborate on Cloud Architecture design and Cloud DevOps related projects
 - 📫 How to reach me via email: akinwaleoluwatola@gmail.com
 
