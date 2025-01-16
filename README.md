@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Oluwatola
-- 👀 I’m interested in Cybersecurity, DevSecOps, IaC, AWS Cloud Architecture, Cloud DevOps and ML/AI.
-- 🌱 I’ve learned how to create and manage Infrastructure as Code, CI/CD pipelines, Docker containers and Kubernetes clusters. Fun stuff!
-- 💞️ I’m looking to collaborate on Internet Security projects, Cloud Architecture design and Cloud DevOps related projects
-- 📫 How to reach me via email: akinwaleoluwatola@gmail.com
+- 👋 Hi, I’m @Oluwatola, a capable and flexible programmer and Cybersecurity specialist with a passion for data security, encryption and all things tech. 
+- 👀 I’m interested in Cybersecurity (blue/red team), DevSecOps, IaC, AWS Cloud Architecture, Cloud DevOps, ML/AI and Quantum Computing.
+- 🌱 I’ve learned how to create interesting, secure and scalable and technologies leveraging knowledge of classical and quantum safe encryption protocols, Cloud resource management, Infrastructure as Code, CI/CD workflows, Containerization and cluster management via Kubernetes. Fun stuff!
+- 💞️ I’m looking to discuss or collaborate on Cybersecurity projects, Cloud Architecture design and Cloud DevOps related projects
+- 📫 How to reach me via email: akinwaleoluwatola@gmail.com/akinwaleoluwatola@outlook.com
 
 <!---
 oluwatola/oluwatola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
